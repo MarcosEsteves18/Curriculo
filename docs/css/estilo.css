@@ -1,13 +1,18 @@
+
 *{
     margin: 1%;
+    text-decoration: none;
+    background-color: rgb(231, 230, 230);
+    font-family: 'Merriweather', serif;
+    padding: auto;
 }
 
 a:link {
-    color: rgb(3, 40, 163);
+    color: rgb(255, 8, 8);
 }
 
 a:visited {
-    color:rgb(88, 70, 187);
+    color:rgb(255, 0, 0);
 }
 
 a:hover {
